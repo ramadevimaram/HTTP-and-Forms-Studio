@@ -1,0 +1,14 @@
+#searchForm{
+    display: grid;
+    
+}
+#searchForm > input[type=text]{
+    width: 20%;
+}
+
+#searchForm > input[type=submit]{
+    width: 20%;
+}
+#searchForm > input[type=submit]:hover{
+    background-color: blue;
+}
